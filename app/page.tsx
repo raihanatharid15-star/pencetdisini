@@ -119,14 +119,16 @@ export default function Home() {
 
   const finalMessage = {
     title: 'ADALAH KAMU! ❤️',
-    subtitle: 'Kamu adalah segalanya bagiku',
-    text: `Setiap hari bersamamu adalah anugerah yang tak ternilai. Kamu adalah alasan aku tersenyum di pagi hari, dan kamu adalah mimpi terindah di malam hari.
+    subtitle: 'Iya kamu, yang bawel, jarang mandi, pendek, batu, bau... wlee 😜',
+    text: `Tapi ya mau gimana lagi, udah terlanjur sayang banget sama kamu.
 
-Terima kasih sudah menjadi cahaya dalam hidupku, sudah menerima aku apa adanya, dan sudah membuat setiap momen menjadi istimewa.
+Kamu orangnya emang suka bikin kesel, suka ngambek nggak jelas, terus kadang annoying banget. Tapi entah kenapa aku malah kangen kalau lagi nggak ada kamu.
 
-Aku berjanji akan selalu ada untukmu, menjaga hatimu, dan mencintaimu dengan sepenuh jiwa.
+Makasih ya udah mau nerima aku yang kadang lebay, kadang cringe, kadang annoying juga. Kita berdua emang perfect match-nya orang-orang aneh sih.
 
-Aku mencintaimu, sekarang dan selamanya. ❤️`,
+Intinya, aku seneng banget bisa kenal kamu. Semoga kita bisa terus bareng sampai tua, nanti kita jadi kakek nenek yang masih suka berantem tapi tetep sayang-sayangan.
+
+Love you, no cap fr fr. 💕`,
   };
 
   // Path foto pasangan (letakkan foto di folder public/)
