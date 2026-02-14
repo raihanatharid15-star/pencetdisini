@@ -98,10 +98,16 @@ export default function Home() {
       ]
     },
     { 
-      type: 'button',
-      text: 'Tebak siapa orangnya? 🎯', 
-      emoji: '🎯', 
-      color: 'from-lime-500 to-green-500' 
+      type: 'quiz',
+      text: 'Pertanyaan 5',
+      emoji: '🎯',
+      color: 'from-lime-500 to-green-500',
+      question: 'Tebak siapa orangnya?',
+      choices: [
+        { text: 'Tobrut 😏', isCorrect: false, response: 'Wkwkwk salah fokus nih! 😂' },
+        { text: 'Janda 🤭', isCorrect: false, response: 'Hahaha bukan! Coba lagi dong 😄' },
+        { text: 'Kamu! ❤️', isCorrect: true, response: 'BINGO! Kamu yang paling sempurna! 💯' },
+      ]
     },
     { 
       type: 'button',
