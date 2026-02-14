@@ -81,13 +81,11 @@ Aku mencintaimu, sekarang dan selamanya. ❤️`,
         ...defaults,
         particleCount,
         origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
-        shapes: ['heart'] as confetti.Shape[],
       });
       confetti({
         ...defaults,
         particleCount,
         origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },
-        shapes: ['heart'] as confetti.Shape[],
       });
     }, 250);
   };
